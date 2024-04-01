@@ -3,3 +3,4 @@
 3.Python-Based Data Science Project/Python-Based Data Science Project
 4.Tensorflow_Keras_Project/TensorFlow_Keras_Project
 5. SQL_PowerBI_Project/ LeonardBi
+6. Data_Analysis/ Data_Analysis_Python
