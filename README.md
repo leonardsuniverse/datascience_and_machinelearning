@@ -21,6 +21,6 @@ __6. Data_Analysis_Python/__
 _Data Analysis with Python_
 This project focuses on data analysis using Python, emphasizing libraries like pandas, numpy, and matplotlib. It covers data wrangling, statistical analysis, and visualization. The project demonstrates how to efficiently analyze and visualize data using Python.
 
-__Data_Analysis_pandas/__
+__7. Data_Analysis_pandas/__
 _Data Analysis with Pandas_
 This project is dedicated to data manipulation and analysis using the pandas library. It involves data loading, cleaning, transformation, analysis, and visualization. The project aims to highlight the capabilities of pandas in handling complex data analysis tasks.
