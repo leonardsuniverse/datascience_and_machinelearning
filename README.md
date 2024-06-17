@@ -1,4 +1,4 @@
-__1. Small_scale_machine_learning_projects/Pythonic_Naives_Bayes_Classifier_Project/TensorFlow_Neural_Network_Handwritten_Project__ <br>
+__1. Small_scale_machine_learning_projects/__ <br>
 _Naive Bayes Classifier Project_<br>
 This project implements a Naive Bayes classifier in Python. The classifier is used for text classification tasks such as spam detection and sentiment analysis. The project includes data preprocessing, feature extraction, model training, and evaluation.
 
